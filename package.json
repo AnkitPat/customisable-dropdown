@@ -1,0 +1,14 @@
+{
+  "name": "customisable-dropdown",
+  "version": "1.0.0",
+  "description": "Dropdown element for React application, everything is customized",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
