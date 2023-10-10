@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Dropdown element for React application, everything is customized",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnkitPat/customisable-dropdown"
+  },
   "directories": {
     "test": "test"
   },
