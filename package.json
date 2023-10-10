@@ -1,6 +1,6 @@
 {
-  "name": "customisable-dropdown",
-  "version": "1.0.0",
+  "name": "searchable-dropdown-react",
+  "version": "1.0.1",
   "description": "Dropdown element for React application, everything is customized",
   "main": "index.js",
   "repository": {

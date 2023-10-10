@@ -1,7 +1,7 @@
 # Searchable Dropdown
 
-[![npm version](https://badge.fury.io/js/searchable-dropdown.svg)](https://badge.fury.io/js/searchable-dropdown)
-[![GitHub license](https://img.shields.io/github/license/ankitpatidar123/searchable-dropdown)](https://github.com/your-username/searchable-dropdown/blob/master/LICENSE)
+[![npm version](https://badge.fury.io/js/searchable-dropdown-react.svg)](https://badge.fury.io/js/searchable-dropdown-react)
+[![GitHub license](https://img.shields.io/github/license/ankitpatidar123/searchable-dropdown-react)](https://github.com/your-username/searchable-dropdown-react/blob/master/LICENSE)
 
 A customizable searchable dropdown package for enhancing user interfaces.
 
